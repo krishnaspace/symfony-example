@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+    </include_path>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="sftp://vagrant@192.168.35.10:22/usr/bin/php" id="b32cdaa9-cdab-418e-9e94-8ec756995e85" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
